@@ -13,7 +13,7 @@ const Guide:React.FC<Props> = ({setState, state, gameState}) => {
     return (
         <>
         <div>
-            <h2 className="mt-4 text-center text-4xl font-extrabold text-white">Petunjuk Sesi</h2>
+            <h2 className="mt-4 text-center text-7xl font-extrabold text-white">Petunjuk Sesi</h2>
             <p className="mt-2 text-center text-lg text-gray-400">
                 Target =  <span className="text-white">{HTMLReactParser(guideWords[gameState])}</span>. <br/>
                 Klik spacebar bila kata yang menjadi target muncul. <br/><br/>
