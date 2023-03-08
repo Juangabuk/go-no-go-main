@@ -11,7 +11,7 @@ const FirstGuidePart2:React.FC<Props> = ({setState, state}) => {
         <>
         <div>
             {/* <h2 className="mt-6 text-center text-xl font-extrabold text-white">Petunjuk Sesi</h2> */}
-            <p className="mt-2 text-center text-5xl text-gray-400">
+            <p className="mt-2 text-center text-4xl text-gray-400">
                 Duduklah senyaman mungkin. <br/>
                 Pastikan posisi tubuh tidak berubah tiba-tiba selama kegiatan berlangsung.<br/>
                 Jika sudah merasa nyaman dan siap.<br/>

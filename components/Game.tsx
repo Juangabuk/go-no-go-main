@@ -133,7 +133,7 @@ const Game: React.FC<Props> = ({
     }, [nextWord]);
 
     return (
-        <div className="mt-[156px]">
+        <div className="mt-[180px]">
             <h2
                 className={clsx(
                     "mt-6 text-center text-[136px] font-extrabold text-white",
